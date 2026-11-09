@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoDraw</string>
+    <string name="a11y_desc">Permite a AutoDraw dibujar automáticamente sobre otras apps (por ejemplo, el pincel de las historias de Instagram) trazando la imagen que elegiste. Solo realiza gestos cuando pulsas ▶ en el botón flotante. No lee el contenido de la pantalla.</string>
+</resources>
